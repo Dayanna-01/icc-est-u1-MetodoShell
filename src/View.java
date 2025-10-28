@@ -3,9 +3,9 @@ public class View {
     public void printArray(int[] numeros){
         for (int i = 0; i < numeros.length; i++) {
             if (i == numeros .length - 1) {
-                System.out.println(numeros[i]);
+                System.out.print(numeros[i]);
             } else {
-                System.out.println(numeros[i] + ",");
+                System.out.print(numeros[i] + ", ");
             }
         }
     }
