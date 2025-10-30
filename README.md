@@ -1,9 +1,10 @@
-# Estructura de datos 
+# 🧩 ESTRUCTURA DE DATOS
 
-**Estudiante:** Janelly Dayanna Chacha Velez
+**Nombre del Estudiante:** Janelly Dayanna Chacha Vélez  
 
 ## Metodo Shell
 
-### Practica 1 - 28/OCT
-Metodo Shell en Java
+**Fecha:** Práctica 1 – 28 de Octubre
+
+### Método Shell en java
 ![alt text](assets/MetodoShell.png)
