@@ -2,7 +2,7 @@
 
 **Estudiante:** Janelly Dayanna Chacha Velez
 
-## Metodos Ordenamiento Practico
+## Metodo Shell
 
 ### Practica 1 - 28/OCT
 Metodo Shell en Java
