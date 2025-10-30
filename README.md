@@ -2,7 +2,7 @@
 
 **Nombre del Estudiante:** Janelly Dayanna Chacha Vélez  
 
-## Metodo Shell
+## 🧠 Métodos Shell
 
 **Fecha:** Práctica 1 – 28 de Octubre
 
